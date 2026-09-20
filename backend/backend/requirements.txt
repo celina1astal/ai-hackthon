@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+langdetect
+deep-translator
+reportlab
+python-dotenv
+langgraph
+langchain-core
+langchain-chroma
+langchain-huggingface
+langchain-community
+langchain-google-genai
+sentence-transformers
+pypdf
